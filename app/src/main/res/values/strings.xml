@@ -1,0 +1,15 @@
+<resources>
+    <string name="imgContent">Kitchen</string>
+    <string name="app_name" translatable="false">TipCalculator</string>
+    <string name="button_text">Calculate</string>
+    <string name="percent_prompt">Choose the tip %</string>
+    <string name="input_hint">Enter the bill\'s total</string>
+    <string name="txt_title">Tip Calculator</string>
+    <string-array name="percentage_group">
+        <item>5%</item>
+        <item>10%</item>
+        <item>15%</item>
+        <item>20%</item>
+        <item>25%</item>
+    </string-array>
+</resources>
